@@ -34,6 +34,24 @@ austríaco tenía razón en todo menos en una cosa: en que fuera sencillo.
 —Entonces se le visita —dijo Strauss, con la misma voz con que hubiera dicho
 *entonces llueve*—. Arthur hace las visitas.
 
+—Y a veces Uncle —apuntó Strauss, bajando los lentes—, cuando recuerda que
+me debe.
+
+—Lo cual nunca ocurre —dijo una voz perezosa detrás de los tres. Uncle, que
+pasaba por ahí con la aplicada dedicación de quien no pasa por ningún lado,
+saludó con la mano sin detenerse—. ¡Dígales, Strauss! ¡Un hombre que duerme
+no contrae deudas, porque las deudas necesitan testigos!
+
+—Uncle —dijo Strauss, con la paciencia de un santo laico—, usted me firmó
+ocho dólares en marzo.
+
+—¡En marzo yo era otro hombre! —dijo Uncle, ya a veinte pasos—. ¡Y ese hombre
+era un irresponsable!
+
+Woody lo vio alejarse con una sonrisa que no se permitió en voz alta, y
+anotó mentalmente que en ese campamento hasta las deudas tenían humor, que
+era una manera de saber que todavía no era un campamento de verdad.
+
 Fue en ese momento cuando Hosea Matthews, que llegaba con dos cazos y había
 oído el final, dejó uno delante de Woody y dijo, sin sentarse:
 
@@ -159,9 +177,67 @@ Woody no contestó. Se limitó a picar espuelas, que era su manera de
 reconocer, sin decirlo, que la mentira piadosa también era una herramienta
 del oficio, y que las herramientas, como las pistolas, se vigilan.
 
+El tercer deudor fue el que le recordó a Woody por qué los comisarios
+existen, y por qué a veces no alcanzan.
+
+Era un hombre de un asentamiento de leñadores que le debía a Strauss
+cuarenta dólares y no debía nada más a nadie, porque a los hombres así los
+demás dejan de prestarles hasta el saludo. Recibió a los dos con una escopeta
+recortada apoyada en el marco de la puerta, y con esa calma mala de los que
+ya perdieron todo lo que se puede perder y descubrieron que se vive igual.
+
+Woody hizo lo suyo. Bajó la voz, puso el cuerpo de lado, habló del invierno,
+de la leña, de un plan de pagos en cortes de madera para el campamento que
+era bueno, que era justo, que era hasta conveniente. El hombre lo escuchó
+entero, que ya era más de lo que escuchaba a nadie, y cuando Woody terminó,
+sonrió con un solo lado de la boca y dijo:
+
+—Bonito discurso, comisario. Ahora váyase, antes de que el discurso se me
+acabe.
+
+Y Woody entendió, con esa puntería suya que no le gustaba, que ahí no había
+cuenta que arreglar: ahí había un hombre que ya se había roto solo, mucho
+antes de Strauss, y que los rotos de esa clase no se reparan con palabras,
+porque las palabras les suenan a lo que les dijeron todos los que se fueron.
+
+Arthur no dijo nada. Se bajó del caballo despacio, caminó los seis pasos
+hasta el porche con las manos a la vista, y le habló a la escopeta, no al
+hombre, que era la única parte de la casa que todavía tomaba decisiones:
+
+—Esa recortada tiene los dos caños cargados y el percutor flojo —dijo
+Arthur, con la voz de quien comenta el clima—. Yo lo sé porque he cargado
+cientos, y usted lo sabe porque ha apuntado con ella a más gente de la que
+le conviene. Así que los dos sabemos que si aprieta, revienta para su lado.
+Lo que no sabemos es si a usted le alcanza con eso pa' matarme a mí primero.
+¿Le alcanza?
+
+El silencio duró lo que dura un hombre midiendo su propia escopeta. Luego la
+recortada bajó una pulgada, que era una rendición chica, y el hombre dijo,
+con la voz ya sin filo:
+
+—Cuarenta dólares no los voy a tener nunca.
+
+—Ni falta que hace —dijo Arthur—. Corta tres cuerdas de leña al mes pa'l
+campamento hasta que salga la cuenta. Y la escopeta, déjala donde la veas
+desde la cama, que es lo único que te queda de hombre. Pero descargada, que
+yo vuelvo en junio.
+
+En el camino de vuelta, Woody no dijo nada en un buen trecho. Cuando lo
+dijo, fue sin adornos, que era la única forma en que podía decirlo:
+
+—Hoy tu método funcionó y el mío no.
+
+—Hoy —dijo Arthur—. Con ése. Con los otros dos, el tuyo.
+
+—¿Y con Downes?
+
+Arthur no contestó. Y Woody no repitió la pregunta, que era la forma en que
+los dos se decían, sin decirla, que ésa no era una cuenta que se pudiera
+saldar entre los dos.
+
 ## III
 
-La tercera deuda era la de Thomas Downes, y la casa de los Downes estaba a
+La cuarta deuda era la de Thomas Downes, y la casa de los Downes estaba a
 media milla del pozo de Annesburg, en una ladera donde el viento olía a
 carbón y a algo más viejo que el carbón.
 
@@ -336,11 +412,49 @@ miraran lo que tienen enfrente.
 
 Pero los hombres no miraron. Esa noche, no.
 
+## VI
+
+Al amanecer siguiente, antes de que el campamento despertara y con él sus
+cuentas, Woody ensilló a Tiro al Blanco sin hacer ruido, que era un oficio
+que la yegua agradecía en silencio, y volvió a la ladera del pozo de
+Annesburg.
+
+Dejó las cosas en el porche de los Downes, apoyadas contra la puerta con el
+orden con que se dejan las cosas que uno quiere que encuentren: seis huevos
+de las dos gallinas de la viuda Ruth, que eran los primeros huevos que daban
+en el campamento, y un frasco de miel de Pearson que Woody había "auditado"
+de la despensa con una seriedad de comisario y una conciencia de ladrón de
+miel, y que anotaría en su librito como *gasto de representación*, que era
+una categoría que él acababa de inventar y que a Pearson no le iba a
+explicar.
+
+No golpeó la puerta. Un comisario que deja cosas en un porche no golpea:
+golpear es pedir las gracias, y las gracias, en las casas enfermas, son un
+lujo que obliga.
+
+Montó de nuevo. Y fue al picar espuelas cuando vio, por la ventana chica de
+la casa, el reflejo de una cara que se asomaba con el pelo revuelto de
+acabarse de despertar: el niño, Archie, con el libro debajo del brazo como
+quien sale a misa. El niño abrió la puerta, vio el frasco y los huevos, y
+miró hacia el camino con los ojos muy abiertos, buscando.
+
+Woody ya se había calado el sombrero. Pero antes de que la ladera se lo
+tragara, hizo una cosa que no estaba en ningún reglamento de ningún
+comisario de ningún pueblo: levantó la mano y saludó, una sola vez, con la
+mano izquierda, que era la que no firmaba actas.
+
+El niño, que no sabía si eso era para él, lo supo igual, y levantó la suya.
+
+Tres semanas de polvo después, en el campamento, nadie notó que al comisario
+que no disparaba le brillaban los ojos un poquito más de lo normal esa
+mañana. Y si alguien lo notó, fue Tiro al Blanco, que no dijo nada, que era
+su manera de decirlo todo.
+
 ---
 
 ### NOTA DE AUTORA
 
-**Palabras:** ~4.900. **Narración:** tercera persona limitada (Woody).
+**Palabras:** ~3.900. **Narración:** tercera persona limitada (Woody).
 **Canon verificado:** Leopold Strauss como prestamista del campamento y
 Arthur como su cobrador (canon: "Money Lending and Other Sins"); Thomas
 Downes, su tos y la sangre en la cara de Arthur como origen de la
@@ -349,6 +463,11 @@ tuberculosis (canon duro, inamovible); Archie y Edith Downes presentes
 carbón cercano.
 **Decisiones de escena:** Woody *llega tarde* al golpe final: detiene el
 último golpe, no el primero — la culpa queda compartida y el canon intacto.
+El deudor de la recortada es el recordatorio obligatorio del brief: el
+método-Woody falla donde el hombre ya se rompió solo, y Arthur lo releva sin
+triunfalismo ("Hoy. Con ése."). El gag de Uncle con Strauss es canon de
+personaje (deudor eterno) y válvula de comedia. Los huevos del alba cierran
+el círculo viuda→Downes y siembran a Archie (semilla de arco Downes).
 La promesa a Edith ("pregunten por el que no dispara") es semilla de arco
 futuro de los Downes. La viuda Ruth y el herrero son deudores inventados que
 instalan el método-Woody ("cobrar es arreglar la cuenta") y la mentira
