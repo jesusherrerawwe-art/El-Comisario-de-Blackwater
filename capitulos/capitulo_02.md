@@ -173,8 +173,57 @@ mirando a Woody con ojos de tasador, fue el primero en asentir. Dutch, que no gu
 Woody no fue. "La conciencia se queda", dijo Dutch con una sonrisa que era
 un candado, y Woody no discutió: se quedó, y mientras la banda estaba en lo
 suyo hizo lo que los comisarios hacen cuando no tienen estrella: inventario.
-Reparó con Charles la cerca del corral que Bill llevaba dos meses
-prometiendo. Reorganizó la guardia en turnos de dos con relevos a la vista,
+
+Empezó por la cerca del corral, que Bill llevaba dos meses prometiendo y la
+lluvia llevaba tres cobrando. Charles Smith ya estaba ahí cuando llegó,
+midiendo un poste con esa paciencia suya de hombre que no discute con la
+madera. Trabajaron un rato sin hablar, que entre ciertos oficios el silencio
+es una forma de presentarse.
+
+—La cerca aguanta —dijo Charles, al cabo, sin dejar de tensar el alambre—.
+Los hombres no.
+
+—¿Y cuál de las dos estamos arreglando hoy? —preguntó Woody.
+
+Charles lo miró por primera vez desde que llegara el poste. Tenía los ojos
+de quien ha visto demasiadas cercas y demasiado pocos hombres, y una
+serenidad que en ese campamento era casi contrabando.
+
+—La que se puede —dijo. Y luego, como quien concede un préstamo chico—:
+Dutch dice que usted ve cosas. Yo digo que ve demasiado. Aquí eso no es
+defecto. Aquí el que ve demasiado nomás no lo cuenta, y usted lo cuenta.
+Eso es nuevo.
+
+—¿Nuevo bueno o nuevo malo?
+
+—Nuevo —dijo Charles, y volvió al alambre, que era su manera de decir que
+la respuesta todavía no la tenía ni él.
+
+Más tarde, junto a la carreta de las ollas, Woody cruzó a la mujer que el
+inventario de la primera mañana había dejado pendiente: Sadie Adler, la
+viuda del rancho que los O'Driscolls quemaron, que en ese momento le sacaba
+a un rifle un brillo que no era de limpieza sino de conversación.
+
+—Dicen que usted no dispara —dijo Sadie, sin levantar la vista, con el
+trapo yendo y viniendo por el caño como un péndulo con opiniones.
+
+—Dicen bien —dijo Woody.
+
+—¿Y qué hace con las manos cuando le roban todo? —preguntó ella, y esta vez
+sí lo miró: tenía la pregunta de alguien que no la hace por curiosidad sino
+por turno, como quien prueba una silla antes de sentarse.
+
+Woody se lo pensó. Era la primera vez en tres semanas que alguien le hacía
+una pregunta de verdad.
+
+—Las uso para anotar —dijo, al fin—. Los que disparan olvidan rápido,
+señora. Los que anotan, no. Un día de estos lo que yo anoté va a valer más
+que lo que usted limpie, y ese día le alcanzo el cartucho, si usted quiere.
+
+Sadie lo miró un segundo más de lo necesario. Luego volvió al péndulo, pero
+la comisura se le movió una milésima, que en ella era carcajada.
+
+—Trato, comisario —dijo—. Pero apúrele. Yo no anoto: yo cobro.
 y le explicó a Karen, que se burlaba, que un campamento no se defiende de
 noche: se defiende de día, dejándolo todo tan en orden que la noche no
 encuentre por dónde. Y cuando a las tres de la mañana un coyote —o algo que
@@ -312,7 +361,7 @@ subiéndole por la espuela, les iba a cobrar la mirada.
 
 ### NOTA DE AUTORA
 
-**Palabras:** ~4.050. **Narración:** tercera persona limitada (Woody).
+**Palabras:** ~3.050. **Narración:** tercera persona limitada (Woody).
 **Canon verificado:** campamento en Horseshoe Overlook, junio–julio de 1899;
 Sean MacGuire rescatado de la cuadrilla de Ike Skelding en esta ventana
 (canón: "The First Shall Be Last"); elenco presente correcto (Sean vivo,
@@ -323,8 +372,11 @@ primera provocación directa (y la primera vez que Woody nombra, sin decirlo,
 el Juramento delante de testigos); la hora de la madrugada como aporte de
 Woody al rescate de Sean cambia el cómo sin cambiar el qué (canon intacto);
 la guardia reorganizada paga su primer susto esa misma noche.
-**Voces:** Jessie estrena carta (C1) con su voz explosiva ("Dulce madre de
-Abraham Lincoln" sembrado como tic natural, no como cita); Arthur consolida
+**Voces:** Charles estrena escena ("aquí el que ve demasiado nomás no lo
+cuenta") y Sadie su semilla completa ("yo no anoto: yo cobro"), ambas
+calibradas al canon; Jessie estrena carta (C1) con su voz explosiva ("Dulce
+madre de Abraham Lincoln" sembrado como tic natural, no como cita); Arthur
+consolida
 el pacto del café ("yo me pongo detrás de ti"), semilla del arco 4 (Vance)
 compartida con un solo confidente.
 **Objetos activos:** estrella abollada (bolsillo), diario (nueva entrada:
