@@ -261,8 +261,8 @@ Guion TS1 (versión limpia de noviembre de 1995, Whedon/Stanton/Cohen/Sokolow)
 en Apéndice A; subtítulos TS1–TS3 en Apéndices B–D (oído de secuelas);
 artículo enciclopédico en Apéndice E. Datos de producción verificados:
 Woody nombrado en honor al actor Woody Strode; estrella de Woody en el Paseo
-de la Fama (1995); *Toy Story 5* anunciada para 2026 (detalles en
-verificación; no citar como canon cerrado). Material de referencia de
+de la Fama (1995); *Toy Story 5* estrenada en junio de 2026; canon incorporado en §4 (bloque
+"TOY STORY 5 — CANON RECIENTE", fuentes: Wikipedia EN e Infobae, sep. 2026). Material de referencia de
 estudio para fanfiction sin fines de lucro; Toy Story © Disney/Pixar.
 
 ---
@@ -408,6 +408,39 @@ estudio para fanfiction sin fines de lucro; Toy Story © Disney/Pixar.
     sentido ("ser de alguien"); Jessie queda como líder del cuarto de
     Bonnie; Woody y Bo ayudan a juguetes perdidos a encontrar niños. El
     sheriff se vuelve comisario del mundo.
+
+### TOY STORY 5 (2026) — CANON RECIENTE (estrenada junio 2026)
+1. **Dos años después de TS4.** Bonnie, 8 años, tímida. Jessie es ahora su
+   favorita y líder del cuarto; Woody vive con Bo Peep ayudando a recolocar
+   juguetes abandonados; vuelve cuando Jessie lo contacta por walkie-talkie.
+2. **Lilypad "Lily".** Tableta-rana que recibe Bonnie para "integrarse"
+   (plataforma social *The Pond*). Bonnie se vuelve adicta; los juguetes,
+   desplazados. Lily NO es villana pura: intenta ayudar a su modo (envía
+   solicitud de amistad a Chelsea); al final colabora con los juguetes.
+3. **Los Buzz hi-tech.** Cargamento de Buzz de edición tecnológica naufraga
+   en demo mode: creen ser rangers de verdad, siguen la Estrella del Norte
+   hacia "Star Command". CONFIRMA definitivamente las reglas R2–R3: el
+   congelamiento y la identidad programada son involuntarios; ni ellos
+   entienden por qué su cuerpo obedece al acercarse un humano.
+4. **El viaje de Jessie.** Tras el desaire en la pijamada (bullying/ciber
+   acoso por jugar con juguetes), Jessie y Bullseye terminan en la granja de
+   Emily, ahora de los Manoukian y su hija Blaze. Conoce a los device-toys
+   Atlas (GPS) y Snappy (cámara), y a Smarty Pants. Juega con Blaze; le
+   entierran el corazón.
+5. **La cápsula del tiempo.** Jessie descubre, enterrada, la cápsula de su
+   época con Emily: fotos de Emily adulta y de su hija, que SE LLAMA JESSIE.
+   Tesis de la película: ser reemplazada no fue ser borrada; el impacto
+   permanece. Jessie recupera la fe.
+6. **Cierres.** Buzz le declara su amor a Jessie y se besan (canon de
+   pareja). Bonnie y Blaze se hacen amigas jugando con TODOS los juguetes y
+   "casando" a Jessie y Buzz; Woody observa feliz y se despide con Bo. Lily
+   se integra equilibrada. Tema Stanton: "nadie juega ya con juguetes" → qué
+   significa seguir importando cuando el juego cambia de forma.
+7. **Uso para el AU:** (a) refuerzo duro de la regla de identidad que
+   sostiene el Juramento de Woody; (b) la tesis "reemplazo ≠ borradura" es la
+   llave del epílogo de *El Comisario*: la estrella que vuelve no es
+   posesión, es impacto; (c) Jessie-líder-y-favorita valida a nuestra Jessie
+   como sostén económico y moral de la familia desde lejos.
 
 ## §5. TEMAS Y BANCO DE FRASES (uso: calibrar voz)
 

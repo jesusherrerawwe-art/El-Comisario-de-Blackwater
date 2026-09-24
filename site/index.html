@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>El Comisario de Blackwater — Novela Visual</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div class="brand">★ EL COMISARIO DE BLACKWATER</div>
+  <nav>
+    <button class="tab active" data-tab="leer">Leer</button>
+    <button class="tab" data-tab="personajes">Personajes</button>
+    <button class="tab" data-tab="mapa">Mapa</button>
+    <button class="tab" data-tab="objetos">Diario de objetos</button>
+    <button class="tab" data-tab="capitulos">Capítulos</button>
+  </nav>
+</header>
+
+<main>
+  <!-- ===== LECTOR VN ===== -->
+  <section id="leer" class="panel active">
+    <div id="vn">
+      <div id="vn-bg" class="bg-noche"></div>
+      <div id="vn-vignette"></div>
+      <div id="vn-title" class="vn-screen">
+        <img src="assets/woody.png" alt="El Comisario">
+        <h1>EL COMISARIO<br>DE BLACKWATER</h1>
+        <p class="sub">Una elegía con estrella de latón · RDR2 × Toy Story</p>
+        <p class="sub2">PRÓLOGO — MERCER'S CROSSING</p>
+        <button id="btn-start">Comenzar la lectura ★</button>
+        <p class="hint">clic, espacio o → para avanzar</p>
+      </div>
+      <div id="vn-end" class="vn-screen hidden">
+        <h1>FIN DEL PRÓLOGO</h1>
+        <p class="sub">Capítulo 1: «El hombre de la funda vacía» — Valentine, junio de 1899.</p>
+        <p class="sub2">En escritura. Wattpad y este sitio lo recibirán al estar listo.</p>
+        <button id="btn-restart">Volver al inicio</button>
+      </div>
+      <div id="vn-box" class="hidden">
+        <div id="vn-speaker"></div>
+        <div id="vn-text"></div>
+        <div id="vn-progress"></div>
+      </div>
+    </div>
+    <p class="colophon">Edición ilustrada interactiva del fanfiction de <em>Chuy &amp; Sofía</em>.
+    Texto: © de los autores (obra derivada sin fines de lucro).
+    RDR2 © Rockstar Games · Toy Story © Disney/Pixar.</p>
+  </section>
+
+  <!-- ===== PERSONAJES ===== -->
+  <section id="personajes" class="panel">
+    <h2>Expedientes del campamento</h2>
+    <div id="cards" class="cards"></div>
+  </section>
+
+  <!-- ===== MAPA ===== -->
+  <section id="mapa" class="panel">
+    <h2>El camino de la banda (1899–1907)</h2>
+    <p class="nota">Cada parada, con su fecha y su capítulo. El mapa avanza con la historia.</p>
+    <ol id="maplist" class="timeline"></ol>
+  </section>
+
+  <!-- ===== OBJETOS ===== -->
+  <section id="objetos" class="panel">
+    <h2>Diario de objetos</h2>
+    <p class="nota">Cinco objetos, cinco arcos. Continuidad estricta: nada entra ni sale sin registro.</p>
+    <div id="objlist" class="cards"></div>
+  </section>
+
+  <!-- ===== CAPÍTULOS ===== -->
+  <section id="capitulos" class="panel">
+    <h2>La novela, capítulo a capítulo</h2>
+    <ol id="caplist" class="caps"></ol>
+  </section>
+</main>
+
+<footer>
+  Proyecto literario en desarrollo · repo GitHub <code>El-Comisario-de-Blackwater</code> ·
+  biblias de mundo y escaleta en <code>/docs</code>.
+</footer>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
