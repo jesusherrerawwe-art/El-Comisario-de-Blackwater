@@ -20,7 +20,15 @@
   nadie mira. El mío dejó de mirar."
 - CIERRE: Woody cabalga sin mirar atrás; Tiro al Blanco sí mira.
 
-## CAP. 1 — EL HOMBRE DE LA FUNDA VACÍA (Valentine, jun 1899)
+## CAP. 1 — EL HOMBRE DE LA FUNDA VACÍA (22 abr / jun 1899)
+> **CANON DE AUTORES (23 sep 2026):** este capítulo QUEDA ESCRITO por Chuy en
+> `capitulos/capitulo_01.md` (~4.100 palabras) y sustituye a la escaleta de
+> referencia abajo: cold open del destierro bajo la lluvia (22 abr 1899,
+> estrella con abolladura del andamio) + Smithfield’s + ascenso al Horseshoe
+> con la risa de Micah como gancho. La escaleta S1–S5 se conserva como nota de
+> producción. El borrador de prólogo de Sofía pasa a
+> `docs/capitulos/BORRADOR_prologo_v1.md` (fuera del canon; semilla de la
+> futura crónica del sepulturero).
 - S1: La banda baja de Colter: polvo, heridas, humor negro; Arthur entra al
   Smithfield's a cobrar/recibir un pago de Dutch.
 - S2: Altercado: dos pistoleros de Ike Skelding reconocen a Arthur (la banda

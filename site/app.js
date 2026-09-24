@@ -33,7 +33,7 @@
   function setBg(name){ bg.className = 'bg-' + name; }
 
   function show(iBeat){
-    const b = PROLOGO[iBeat];
+    const b = ESCENA1[iBeat];
     setBg(b.bg);
     spk.textContent = b.s || '';
     full = b.x;
@@ -46,7 +46,7 @@
       txt.textContent = full.slice(0, k);
       if (k >= full.length){ clearInterval(typing); txt.classList.add('done'); }
     }, 14);
-    prog.textContent = (iBeat+1) + ' / ' + PROLOGO.length;
+    prog.textContent = (iBeat+1) + ' / ' + ESCENA1.length;
   }
 
   function advance(){
@@ -55,7 +55,7 @@
       clearInterval(typing); txt.textContent = full; txt.classList.add('done'); return;
     }
     i++;
-    if (i >= PROLOGO.length){
+    if (i >= ESCENA1.length){
       box.classList.add('hidden');
       end.classList.remove('hidden');
       return;
