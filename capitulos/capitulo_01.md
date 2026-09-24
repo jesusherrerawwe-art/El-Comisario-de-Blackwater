@@ -9,7 +9,7 @@
 
 La lluvia sobre Mercer's Crossing no caía: sentenciaba. Golpeaba el tejado de
 la proveeduría como un jurado que ya hubiera decidido, y por debajo de ese
-ruido grande había otros más pequeños y más sucios: el de las botas de James
+ruido grande había otros más pequeños y más sucios: el de las botas de James "Woody"
 Pride contra el entablado mojado, el de la cuenta que Silas Vance pasaba con
 el lápiz, y el de las cajas que no debían estar ahí y estaban.
 
